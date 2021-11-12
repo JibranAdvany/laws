@@ -1,0 +1,22 @@
+{
+  "name": "laws",
+  "version": "1.0.0",
+  "description": "Digital Laws",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JibranAdvany/laws.git"
+  },
+  "author": "Jibran Advani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JibranAdvany/laws/issues"
+  },
+  "homepage": "https://github.com/JibranAdvany/laws#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
